@@ -1,3 +1,4 @@
+const lines = 5;
 let result = '';
 const length = 7;
 for (let i = 1; i < length; i++) {
